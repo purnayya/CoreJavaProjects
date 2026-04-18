@@ -138,8 +138,6 @@ Topper = Alice (91.6%)
 ---
 
 ## 👨‍💻 Author
-
-Your Name
 venkata purnachandra rao
 ---
 
